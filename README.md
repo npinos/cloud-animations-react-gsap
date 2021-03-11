@@ -3,10 +3,10 @@
 Basic component with a secondary class to represent the particles.
 The animations run in a loop and draw each particle state on a canvas element using a custom function passed to a GSAP ticker.
 
-Properties used 
-rotation: Math.PI * 2 with sine.easeInOut
-scale: from 0.01 to 2.5 with sine.easeInOut
-x: horizontal displacement with sine.easeInOut
+### Properties used 
+rotation: Math.PI * 2 with sine.easeInOut.\
+scale: from 0.01 to 2.5 with sine.easeInOut.\
+x: horizontal displacement with sine.easeInOut.\
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
