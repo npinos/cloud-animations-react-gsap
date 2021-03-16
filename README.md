@@ -8,6 +8,8 @@ rotation: Math.PI * 2 with sine.easeInOut.\
 scale: from 0.01 to 2.5 with sine.easeInOut.\
 x: horizontal displacement with sine.easeInOut.
 
+[Live demo](https://oaklandev.com/projects/particle-cloud-animations-react-gsap/index.html)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
